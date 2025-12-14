@@ -1,4 +1,4 @@
-# numpy-learning
+# numpy_learning
 📘 NumPy Learning Repository
 
 Welcome to my NumPy learning journey!
